@@ -1,0 +1,29 @@
+{
+  "name": "iiitdmedu",
+  "version": "1.0.0",
+  "description": "Global is a modern and sleek website template crafted for professionals in the creative industry. Global can serve as a single page portfolio or be easily modified to serve as the perfect beginning for a hip creative agency.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iiitdmedukancheepuram/IIITDMEDU.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iiitdmedukancheepuram/IIITDMEDU/issues"
+  },
+  "homepage": "https://github.com/iiitdmedukancheepuram/IIITDMEDU#readme",
+  "dependencies": {
+    "@prisma/client": "^3.2.1",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13",
+    "prisma": "^3.2.1"
+  }
+}
